@@ -5,7 +5,7 @@ This project features an interactive Financial Analysis Dashboard designed to an
 The dashboard is built using dummy/simulated data for learning and portfolio demonstration purposes.
 
 **🎯 Objectives**
-Track key financial KPIs such as Sales, Orders, Profit, Profit Margin, and Discounts
+Bullet Track key financial KPIs such as Sales, Orders, Profit, Profit Margin, and Discounts
 Compare current vs prior year performance
 Analyze profitability across countries, segments, and products
 Identify top-performing products and sales trends over time
