@@ -43,7 +43,8 @@ The dashboard is built using dummy/simulated data for learning and portfolio dem
 - Data visualization & storytelling
 
 **Dashboard layout & UX design**
-📸 Dashboard Preview
+📸 Dashboard Preview:
+Finance_Dashboard.pdf
 
 
 **🚀 How to Use**
