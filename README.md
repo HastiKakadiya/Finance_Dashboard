@@ -44,7 +44,8 @@ The dashboard is built using dummy/simulated data for learning and portfolio dem
 
 **Dashboard layout & UX design**
 📸 Dashboard Preview:
-https://github.com/HastiKakadiya/Finance_Dashboard/blob/d2a3d6079c0dd42a6f1a5f4d4ee83f438693d874/Finance_Dashboard.pdf
+📄 **Dashboard PDF:**  
+[View Financial Analysis Dashboard (PDF)](https://github.com/HastiKakadiya/Finance_Dashboard/blob/main/Finance_Dashboard.pdf)
 
 
 **🚀 How to Use**
